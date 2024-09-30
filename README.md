@@ -26,12 +26,12 @@
         </ul>
       </section>
       <section>
-📫 Cómo contactarme... Buscame en IG o thread como @CesarDavidgz
+<p>📫 Cómo contactarme... Buscame en IG o thread como @CesarDavidgz</p>
         </section>
         <section>
-- ⚡ Fun fact: ... actualmente me va muy bien en diseño de muebles en melanina, tengo aproximadamente 2 años en la empresa en Mérida
+<p>- ⚡ Fun fact: ... actualmente me va muy bien en diseño de muebles en melanina, tengo aproximadamente 2 años en la empresa en Mérida
         y es una oportunidad para aprender, crecer con las responsabilidades pero tambien quiero aprovechar para aprender ingles y programación 
-        conocer el entorno y dedicarme a algo que me aporte y permita crecer y estar bien en el futuro
+        conocer el entorno y dedicarme a algo que me aporte y permita crecer y estar bien en el futuro</p>
       </section>
 
 <!---
