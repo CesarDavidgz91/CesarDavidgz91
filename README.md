@@ -11,11 +11,11 @@
           <li>Nunca parar de aprender, Soy estudiante activo de Platzi</li>
         </ul>
        <h2> - 🌱 Actualmente estoy aprendiendo... </h2>
-        <ul>
+        <ol>
           <li>Amarme más cada día y amar más a mi esposa </li>
           <li>Fundamentos de la programación en Platzi ruta de JS, WordPress y me llama mucho la atención Python</li>
           <li>Ingles, me ayudara mucho en mi crecimiento</li>
-        </ul>
+        </ol>
       </section>
       <section>
 <h3>💞️ Busco colaborar en...</h3>
@@ -29,9 +29,9 @@
 <p>📫 Cómo contactarme... Buscame en IG o thread como @CesarDavidgz</p>
         </section>
         <section>
-<p>- ⚡ Fun fact: ... actualmente me va muy bien en diseño de muebles en melanina, tengo aproximadamente 2 años en la empresa en Mérida
+<p>- ⚡ Dato curioso: ... Actualmente me va muy bien en diseño de muebles en melanina, tengo aproximadamente 2 años en la empresa en Mérida
         y es una oportunidad para aprender, crecer con las responsabilidades pero tambien quiero aprovechar para aprender ingles y programación 
-        conocer el entorno y dedicarme a algo que me aporte y permita crecer y estar bien en el futuro</p>
+        conocer el entorno y dedicarme a algo que me aporte, me permita crecer y estar bien en el futuro</p>
       </section>
 
 <!---
