@@ -11,12 +11,17 @@
 - **Background profesional:** Llevo 3 años como experto en diseño de muebles. El orden y la estructura del diseño físico me ayudan mucho a entender la lógica del código y 2 años de diseño gráfico.
 
 ### 📚 Lo que estoy aprendiendo
-- 💻 **Tech:** Fundamentos de programación, diseño web en WordPress. desarrollo en Unity con C#, edición de videos. - ![Platzi](https://img.shields.io/badge/Platzi-Learning-00C16A?style=for-the-badge&logo=platzi&logoColor=white)
+- 💻 **Tech:** FundamentΩos de programación, diseño web en WordPress. desarrollo en Unity con C#, edición de videos.
+- ![Platzi](https://img.shields.io/badge/PLATZI-LEARNING-555555?style=for-the-badge&labelColor=98ca3f&logo=platzi&logoColor=white)
 - 🗣️ **Idiomas:** Llevo una racha de **+950 días** en el búho verde 🦉. Tengo un nivel básico superior de **Inglés** un gusto por el idioma Japones y Mandarin y aprendiendo **Maya** junto a mi esposa que es de Yucatán.
 - 🌱 **Personal:** Aprendiendo a ser mejor esposo y a priorizar el amor propio cada día, creo que una sola cosa no me define ya que tengo muchos gustos, lectura, ganar de aprender, y buscar mis metas, superarme ser un mejor hijo, esposo, hermano y en un futuro proximo padre.
 
+## 🌐 Mis Proyectos
+- 📂 [**Mi Blog Personal & Portafolio**](https://cesardavidgz91.github.io/) - Construido paso a paso para documentar mi aprendizaje.
+- 📂 [**Mi Pagina Web hecha en WordPress con Servicio de Alojar Más Páginas**](https://www.guevaratun./) - Desarrollo para implementar un servicio.
+
 ### 🤝 Colaboraciones
-Busco proyectos donde pueda aportar, trabajo medio tiempo extra, donde pueda ganar un sueldo más, editando videos, diseño gráfrico aportar mis habilidades y tiempo:
+Busco proyectΩos donde pueda aportar, trabajo medio tiempo extra, donde pueda ganar un sueldo más, editando videos, diseño gráfrico aportar mis habilidades y tiempo:
 - Aportar valor y ser alguien de confianza para realizar las tareas.
 - Aplicar mis conocimientos de **creación de contenido y en redes sociales** diseñando, editando videos, o creando pagina web.
 
@@ -41,7 +46,8 @@ Busco proyectos donde pueda aportar, trabajo medio tiempo extra, donde pueda gan
 ---
 
 ### 📫 Conectemos
-¿Quieres platicar de diseño, código o idiomas?
-- 📸 **Te comparto mi LinkedIn y Correo electronico:** [@CesarDavidgz]([https://mx.linkedin.com/in/cesardavidgz])
+¿Quieres platicar o trabajemos juntos en diseño, código o editación videos?
+- **Portafolio:** [https://cesardavidgz91.github.io/](https://cesardavidgz91.github.io/)
+- 📸 **Te comparto mi LinkedIn con mi CV actualizado:** [@CesarDavidgz](https://mx.linkedin.com/in/cesardavidgz) 
 
 > **Dato curioso:** Mi meta es sentir realización con mis conocimientos, tener libertar de compartir con mis seres queridos, lograr y llegar a lugares que nunca imagine antes ✨
