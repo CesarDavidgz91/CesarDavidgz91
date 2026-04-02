@@ -47,7 +47,5 @@ Busco oportunidades como freelance y disponible para proyectos externos mediante
 ¿Quieres platicar o que trabajemos juntos en diseño, código o edición de videos?
 - **Portafolio:** [![Portfolio](https://img.shields.io/badge/GitHub-cesardavidgz91.github.io-181717?style=for-the-badge&logo=github&logoColor=white)](https://cesardavidgz91.github.io/)
 - 📸 **Te comparto mi LinkedIn con mi CV actualizado:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://mx.linkedin.com/in/cesardavidgz)
-  [//]: # (Este es un comentario secreto que no se renderiza)
-  "[//]: # (- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))"
 
 > **Dato curioso:** Mi meta es sentir realización con mis conocimientos, tener libertad de compartir con mis seres queridos, lograr y llegar a lugares que nunca imaginé antes ✨
