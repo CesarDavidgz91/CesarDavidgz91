@@ -1,43 +1,47 @@
-<!DOCTYPE html>
- <body>
-  <main>
-    <h1>- 👋 Hola amig@s, Soy @CesarDavidgz91</h1>
-      <section>
-        <h2>- 👀 Estoy interesado en: </h2>
-        <ul>
-          <li> Apasionado por Dios, No me define una religion si no una relacion con El que a mi parecer es El creador.</li>
-          <li>Adentrarme al mundo de la programación en mi poco conocimiento encaminarme como full-stack, si paso a paso.</li>
-          <li>Seguir aprendiendo idiomas llevo actualmente 424 días continuos en el buo verde, actualmente Ingles y Maya con mi esposa</li>
-          <li>Nunca parar de aprender, Soy estudiante activo de Platzi</li>
-        </ul>
-       <h2> - 🌱 Actualmente estoy aprendiendo... </h2>
-        <ol>
-          <li>Amarme más cada día y amar más a mi esposa </li>
-          <li>Fundamentos de la programación en Platzi ruta de JS, WordPress y me llama mucho la atención Python</li>
-          <li>Ingles, me ayudara mucho en mi crecimiento</li>
-        </ol>
-      </section>
-      <section>
-<h3>💞️ Busco colaborar en...</h3>
-        <ul>
-          <li>Proyectos donde pueda aprender de poca demanda, actualmente estoy trabajando y estudiando</li>
-          <li>Aprender donde alguien guste enseñarme y en algun futuro aportar valor, puedo practicar y muy pronto desempeñarme en el area juntos</li>
-          <li>algo relacionado en publicar contenido en redes, trabajo actualmente en diseño de muebles, pero eh estudiado y trabajado en crear contenido marcas de la ciudad</li>
-        </ul>
-      </section>
-      <section>
-<p>📫 Cómo contactarme... Buscame en IG o thread como @CesarDavidgz</p>
-        </section>
-        <section>
-<p>- ⚡ Dato curioso: ... Actualmente me va muy bien en diseño de muebles en melanina, tengo aproximadamente 2 años en la empresa en Mérida
-        y es una oportunidad para aprender, crecer con las responsabilidades pero tambien quiero aprovechar para aprender ingles y programación 
-        conocer el entorno y dedicarme a algo que me aporte, me permita crecer y estar bien en el futuro</p>
-      </section>
+# 👋 ¡Hola, soy César! 
+### Diseñador Gráfico | Estudiante en Platzi | Con más metas y Sueños..
 
-<!---
-CesarDavidgz91/CesarDavidgz91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-  </main>
- </body>
-</html>
+¡Bienvenido a mi rincón en GitHub! Actualmente equilibro mi trabajo en el mundo del diseño gráfico en Mérida con mi pasión por la tecnología y apredizajes nuevos.
+
+---
+
+### 🚀 Sobre mí
+- **Pasión principal:** Ser una persona que busca hacer el bien en su vida, familia, disfrutar los dias, colaborar en trabajos, aprender cada día y me considero alguien que mantiene una integridad en relación con Dios que tengo principios y sueños de ser mejor persona.
+- **Enfoque actual:** Estudiante activo en **Platzi**, recorriendo el camino para convertirme en **Full-Stack Developer**.
+- **Background profesional:** Llevo 3 años como experto en diseño de muebles. El orden y la estructura del diseño físico me ayudan mucho a entender la lógica del código y 2 años de diseño gráfico.
+
+### 📚 Lo que estoy aprendiendo
+- 💻 **Tech:** Fundamentos de programación, diseño web en WordPress. desarrollo en Unity con C#, edición de videos. - ![Platzi](https://img.shields.io/badge/Platzi-Learning-00C16A?style=for-the-badge&logo=platzi&logoColor=white)
+- 🗣️ **Idiomas:** Llevo una racha de **+950 días** en el búho verde 🦉. Tengo un nivel básico superior de **Inglés** un gusto por el idioma Japones y Mandarin y aprendiendo **Maya** junto a mi esposa que es de Yucatán.
+- 🌱 **Personal:** Aprendiendo a ser mejor esposo y a priorizar el amor propio cada día, creo que una sola cosa no me define ya que tengo muchos gustos, lectura, ganar de aprender, y buscar mis metas, superarme ser un mejor hijo, esposo, hermano y en un futuro proximo padre.
+
+### 🤝 Colaboraciones
+Busco proyectos donde pueda aportar, trabajo medio tiempo extra, donde pueda ganar un sueldo más, editando videos, diseño gráfrico aportar mis habilidades y tiempo:
+- Aportar valor y ser alguien de confianza para realizar las tareas.
+- Aplicar mis conocimientos de **creación de contenido y en redes sociales** diseñando, editando videos, o creando pagina web.
+
+## 🛠️ Herramientas y tecnologías que actualmente uso:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+## 🎨 Diseño y Creatividad Software y sistemas:
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Content Creation](https://img.shields.io/badge/Creación%20de%20Contenido-e91e63?style=for-the-badge&logo=instagram&logoColor=white)
+
+![Escritura & Narrativa](https://img.shields.io/badge/Escritura%20&%20Narrativa-brown?style=for-the-badge&logo=framer&logoColor=white)
+![Canva Pro](https://img.shields.io/badge/Canva_Pro-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![CapCut Pro](https://img.shields.io/badge/CapCut_Pro-000000?style=for-the-badge&logo=capcut&logoColor=white)
+![Affinity](https://img.shields.io/badge/Affinity-533791?style=for-the-badge&logo=affinity&logoColor=white)
+* Y manejo de herramientas para creación de contenido en redes sociales.*
+
+---
+
+### 📫 Conectemos
+¿Quieres platicar de diseño, código o idiomas?
+- 📸 **Te comparto mi LinkedIn y Correo electronico:** [@CesarDavidgz]([https://mx.linkedin.com/in/cesardavidgz])
+
+> **Dato curioso:** Mi meta es sentir realización con mis conocimientos, tener libertar de compartir con mis seres queridos, lograr y llegar a lugares que nunca imagine antes ✨
