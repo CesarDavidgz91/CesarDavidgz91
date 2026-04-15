@@ -1,7 +1,7 @@
 # 👋 ¡Hola, soy César! 
 ### Diseñador Gráfico | Estudiante en Platzi | Con más metas y sueños...
 
-¡Bienvenido a mi rincón en GitHub! Actualmente equilibro mi trabajo en el mundo del diseño gráfico en Mérida con mi pasión por la tecnología y aprendizajes nuevos.
+¡Bienvenido a mi rincón en GitHub! Actualmente equilibro mi trabajo en el mundo del diseño gráfico en Mérida con mi pasión por la tecnología y aprendizajes.
 
 ---
 
@@ -22,7 +22,7 @@
 ### 🤝 Colaboraciones
 Busco oportunidades como freelance y disponible para proyectos externos mediante mis habilidades y tiempo:
 - Aportar valor y ser alguien de confianza para realizar las tareas.
-- Aplicar mis conocimientos de **creación de contenido y redes sociales: diseñando, editando videos o creando páginas web.**
+- Aplicar mis conocimientos de **diseñando, aplicativos web o páginas web.**
 
 ## 🛠️ Herramientas y tecnologías que actualmente uso:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
